@@ -10,6 +10,5 @@ public class ReverseString {
 			System.out.print(c[i]);
 		}
 
-	}
-
+}
 }
